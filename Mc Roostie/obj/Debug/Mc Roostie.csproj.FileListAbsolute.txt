@@ -1,0 +1,37 @@
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\bin\Debug\Mc Roostie.exe.config
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\bin\Debug\Mc Roostie.exe
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\bin\Debug\Mc Roostie.pdb
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc Roostie.csprojAssemblyReference.cache
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.Form1.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.Properties.Resources.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc Roostie.csproj.GenerateResource.cache
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc Roostie.csproj.CoreCompileInputs.cache
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc Roostie.exe
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc Roostie.pdb
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\bin\Debug\Negocios.dll
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\bin\Debug\Datos.dll
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\bin\Debug\Negocios.pdb
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\bin\Debug\Datos.pdb
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc Roostie.csproj.CopyComplete
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.MenuPrincipal.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.Ventas.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.MenuAdministrador.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormUsers.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormItems.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VentasPollo.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VentasBebidas.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VentasExtras.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.CambioLugar.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VtasPromos.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormPago.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormFinishChange.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VentasCarnitas.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VentasTostadas.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VentasTortas.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.VentasComplementos.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormVtaPollo.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormShowPromo.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormEditPromoDetail.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormAddProductPromo.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormCancelOrder.resources
+D:\Documentos\Mc Roostie\Mc Roostie\Mc Roostie\obj\Debug\Mc_Roostie.FormReport.resources

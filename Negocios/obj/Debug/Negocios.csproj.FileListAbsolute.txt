@@ -1,0 +1,9 @@
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\bin\Debug\Negocios.dll
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\bin\Debug\Negocios.pdb
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\bin\Debug\Datos.dll
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\bin\Debug\Datos.pdb
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\obj\Debug\Negocios.dll
+D:\Documentos\Mc Roostie\Mc Roostie\Negocios\obj\Debug\Negocios.pdb

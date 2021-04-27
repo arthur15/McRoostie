@@ -1,0 +1,6 @@
+D:\Documentos\Mc Roostie\Mc Roostie\Datos\bin\Debug\Datos.dll
+D:\Documentos\Mc Roostie\Mc Roostie\Datos\bin\Debug\Datos.pdb
+D:\Documentos\Mc Roostie\Mc Roostie\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Documentos\Mc Roostie\Mc Roostie\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Documentos\Mc Roostie\Mc Roostie\Datos\obj\Debug\Datos.dll
+D:\Documentos\Mc Roostie\Mc Roostie\Datos\obj\Debug\Datos.pdb
